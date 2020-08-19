@@ -6,3 +6,9 @@
 ---
 
 <img align="left" alt="Noah's Github Stats" src="https://github-readme-stats.vercel.app/api?username=noahlibby17&bg_color=-45deg,b25240,94508f&show_icons=true&hide_border=true&title_color=ffffff&text_color=ffffff&icon_color=342f38" />
+
+---
+
+Big thank you to these developers:
+https://github.com/novatorem/spotify-readme
+https://github.com/anuraghazra/github-readme-stats
