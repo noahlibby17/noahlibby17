@@ -1,9 +1,9 @@
 ### Hey there 👋
 
 My name is Noah, and I'm currently working as an Associate Data Engineer at [Collective Measures](https://www.collectivemeasures.com) in Minneapolis, MN. I graduated from [Bard College](https://www.bard.edu) with a Bachelor's in [Psychology](https://memlab.bard.edu) and a concentration in Mind, Brain, and Behavior.</br></br>
-🌱: Currently learning about data science/predictive modeling, APIs, ETL, and BCIs</br>
-🧠: Curious about cognitive neuroscience</br>
-🖥️: Wanting to learn and automate as much as possible
+🌱 : Currently learning about data science/predictive modeling, APIs, ETL, and BCIs</br>
+🧠 : Curious about cognitive neuroscience</br>
+🖥️ : Wanting to learn and automate as much as possible
 
 **Languages and Tools:**  
 
