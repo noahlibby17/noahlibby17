@@ -14,6 +14,7 @@ My name is Noah, and I'm currently working as an Associate Data Engineer at [Col
 <code><img height="20" src="https://cdn.filepicker.io/api/file/jZDILlufSOSDOkuJTZ7J"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Google-BigQuery-Logo.svg/1200px-Google-BigQuery-Logo.svg.png"></code>
 <code><img height="20" src="https://seeklogo.com/images/A/atom-logo-19BD90FF87-seeklogo.com.png"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png"></code>
 
 ---
 
