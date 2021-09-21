@@ -16,6 +16,8 @@ My name is Noah, and I'm currently working as a Data Engineer at [Collective Mea
 <code><img height="20" src="https://cdn.worldvectorlogo.com/logos/google-bigquery-logo-1.svg"></code>
 <code><img height="20" src="https://seeklogo.com/images/A/atom-logo-19BD90FF87-seeklogo.com.png"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png"></code>
+<code><img height="20" src="https://media.trustradius.com/product-logos/DZ/gx/XG0U0R8M5T2J.PNG"></code>
+
 
 ---
 
