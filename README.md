@@ -1,6 +1,6 @@
 ### Hey there 👋
 
-My name is Noah, and I'm currently a Data Scientist I at [RubiconMD](https://www.rubiconmd.com). I graduated from [Bard College](https://www.bard.edu) with a Bachelor's in [Psychology](https://memlab.bard.edu) and a concentration in Mind, Brain, and Behavior, and I recently completed the [IBM Data Science Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/5BMT3D7WELDC). </br></br>
+My name is Noah, and I'm currently a Data Scientist I at [RubiconMD](https://www.rubiconmd.com). I graduated from [Bard College](https://www.bard.edu) with a Bachelor's in [Psychology](https://memlab.bard.edu) and a concentration in Mind, Brain, and Behavior, and have completed the [IBM Data Science Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/5BMT3D7WELDC). </br></br>
 🌱 : Currently learning about data science/predictive modeling, APIs, ETL, and BCIs</br>
 🧠 : Curious about computational cognitive neuroscience</br>
 🖥️ : Wanting to learn and automate as much as possible
