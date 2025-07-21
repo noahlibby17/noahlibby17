@@ -21,12 +21,6 @@ My name is Noah, and I'm currently a Data Scientist II at [RubiconMD](https://ww
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png"></code>
 <code><img height="20" src="https://cdn.freebiesupply.com/logos/thumbs/2x/nodejs-1-logo.png"></code>
 
-
----
-
-### Currently Listening on Spotify:
-[<img src ="https://noahspotifyreadme.vercel.app//api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/128568285)
-
 ---
 
 <img align="left" alt="Noah's Github Stats" src="https://noah-github-readme-stats.vercel.app/api?username=noahlibby17&count_private=true&bg_color=-45deg,b25240,94508f&show_icons=true&hide_border=true&title_color=ffffff&text_color=ffffff&icon_color=342f38&include_all_commits=True"/></br></br></br></br></br></br></br></br></br></br></br>
